@@ -1,10 +1,12 @@
 # number-to-words
 
-Usage:```bash
+Usage:
+```
 $ python numtoword.py <int>
 ```
 
-Example:```bash
+Example:
+```
 $ python numtoword.py 2140
 two thousand one hundred and forty
 ```
